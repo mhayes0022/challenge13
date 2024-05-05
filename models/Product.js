@@ -20,7 +20,7 @@ Product.init(
       allowNull: false,
     },
     price: {
-      type:DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL,
       allowNull: false,    
     },
     stock: {
@@ -35,6 +35,13 @@ Product.init(
       },
     },
   },
+  {
+    sequelize,
+    timestamps: false,
+    freezeTableName: true,
+    underscored: true,
+    modelName: 'product',
+  }
 );
 
 module.exports = Product;

@@ -7,7 +7,11 @@ The purpose of this application was to build the back end for an e-commerce site
 
 ## Demo Video 
 
-A demo video is included in the assets folder of this application's repository.
+Link to the demonstration on VS Code:
+https://drive.google.com/file/d/1Ilu3CvM1nn1Nn3qV1NIXxZNB3KfXcznF/view?usp=sharing
+
+Link to the demonstration using Postman:
+https://drive.google.com/file/d/1UR_OeaXB_PJzW4ssA_cmURpdT8_x816B/view?usp=sharing
 
 ## Installation
 

@@ -5,9 +5,9 @@ E-Commerce Backend
 
 The purpose of this application was to build the back end for an e-commerce site. This included interacting with MySql and databases, as well as using get, post, put, and delete routes.
 
-## Walkthrough Video Link
+## Demo Video 
 
-
+A demo video is included in the assets folder of this application's repository.
 
 ## Installation
 
